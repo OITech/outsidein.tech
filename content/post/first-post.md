@@ -1,8 +1,15 @@
 +++
 date = "2016-08-14T19:51:55+05:30"
 title = "first post"
-#menu = "nav"
+
 draft = true
+
+#menu = "nav"
+#featureimage = "img/SavingsLedger_MF.png"
+#lastmod = "2017-03-25"
+#project_url = "http://test.com"
+#SectionPagesMenu = "main"
+
 
 +++
 
