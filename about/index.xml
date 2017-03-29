@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Outside-In Tech</title>
+    <link>https://oitech.github.io/outsidein.tech/about/index.xml</link>
+    <description>Recent content in Abouts on Outside-In Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Licensed under Creative Commons (BY-SA 4.0)</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oitech.github.io/outsidein.tech/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://oitech.github.io/outsidein.tech/about/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://oitech.github.io/outsidein.tech/about/</guid>
+      <description>&lt;p&gt;A blog about technology, science and personal finance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

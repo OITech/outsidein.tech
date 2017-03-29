@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Outside-In Tech</title>
+    <link>https://oitech.github.io/outsidein.tech/post/index.xml</link>
+    <description>Recent content in Posts on Outside-In Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Licensed under Creative Commons (BY-SA 4.0)</copyright>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oitech.github.io/outsidein.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Savings Ledger - Track your savings, not your expenses</title>
+      <link>https://oitech.github.io/outsidein.tech/post/track-your-savings-using-this-excel-sheet/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://oitech.github.io/outsidein.tech/post/track-your-savings-using-this-excel-sheet/</guid>
+      <description>&lt;p&gt;All financial experts say that in order to save, we need to keep track of what we spend. We have a lot of tools to track expenses. I used to use &lt;a href=&#34;https://www.gnucash.org/&#34; target=&#34;_blank&#34;&gt;GnuCash&lt;/a&gt; when I was in college to track my expenses. It was a lot of manual work. It was cumbersome to add each transaction manually. And since tracking cash is hard - there were always a few transactions that got missed. We now have apps like &lt;a href=&#34;http://moneyview.in&#34; target=&#34;_blank&#34;&gt;MoneyView&lt;/a&gt; and &lt;a href=&#34;http://www.getwalnut.com/&#34; target=&#34;_blank&#34;&gt;Walnut&lt;/a&gt; which automatically track all accounts for which you receive an SMS. Cash transactions still need to be manually entered though.&lt;/p&gt;
+
+&lt;p&gt;But another way of looking at savings is: &lt;em&gt;&amp;ldquo;what we spend is what is left after what we save&amp;rdquo;&lt;/em&gt;.
+i.e. not&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Savings = Income - Expenses
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;but&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Expenses = Income - Savings
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This &lt;a href=&#34;https://www.youtube.com/watch?v=VKnbpGnir8c&#34; target=&#34;_blank&#34;&gt;principle&lt;/a&gt; seems quite simple, but we usually tend to end up following the first equation rather than the second. To successfully follow the second equation, we need to track our &lt;em&gt;savings&lt;/em&gt;, not out expenses. We need to have a solid plan of what we need to save each month and keep tracking that month over month. Each time you receive your salary, lock down your planned savings and &lt;em&gt;then&lt;/em&gt; spend the rest.&lt;/p&gt;
+
+&lt;p&gt;We usually have an expenses ledger &amp;ndash; i.e. a list of transactions where we have spent some amount. I present to you a &lt;em&gt;Savings Ledger&lt;/em&gt;, where you can track all the savings you have made each month. I have put all the usual savings methods in this ledger. If there is anything you feel missing, please mention it in the comments section below. This has been &lt;a href=&#34;https://freefincal.com/on-tracking-and-managing-expenses/&#34; target=&#34;_blank&#34;&gt;mentioned before&lt;/a&gt; in this excellent &lt;a href=&#34;https://freefincal.com&#34; target=&#34;_blank&#34;&gt;personal finance blog&lt;/a&gt;. However, this excel is different in that it doesn&amp;rsquo;t explicitly track goals. It is very useful to upload to various portfolio management tools like &lt;a href=&#34;https://etportfolio.indiatimes.com&#34; target=&#34;_blank&#34;&gt;ET Portfolio&lt;/a&gt;, &lt;a href=&#34;https://www.valueresearchonline.com/port/&#34; target=&#34;_blank&#34;&gt;Value Research Portfolio&lt;/a&gt; or even Freefincal&amp;rsquo;s Excel based &lt;a href=&#34;https://freefincal.com/features-freefincal-mutual-fund-financial-goal-tracker/&#34; target=&#34;_blank&#34;&gt;tracker&lt;/a&gt;. These tools may not allow export of your data, so it is best to have a ledger of transactions that you can refer to. You can also use this ledger to import data into these tools.&lt;/p&gt;
+
+
+&lt;div style=&#34;text-align: center; margin-bottom: 1em&#34;&gt;
+    &lt;strong&gt;&lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/dl/SavingsLedger.v1.xlsx&#34;&gt;Download the Savings Ledger excel sheet&lt;/a&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;The excel sheet doesn&amp;rsquo;t have any complex formulas. You can basically copy the columns to Google Sheets or Excel Online or any spreadsheet program of your choice. It might be a good idea to have separate files for each financial year if the number of transactions you have is more. If you have any suggestions on improvements for the above sheet, please mention them in the comments below.&lt;/p&gt;
+
+&lt;p&gt;Here are the headers of the various sheets in the excel (fields in blue are mandatory, fields in gray are optional).&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Mutual Funds
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_MF.png&#34; alt=&#34;SavingsLedger MF Header&#34; /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Shares and ETFs
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_ShareETF.png&#34; alt=&#34;SavingsLedger ShareETF Header&#34; /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Fixed Income
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_FixedIncome.png&#34; alt=&#34;SavingsLedger FixedIncome Header&#34; /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Real Estate
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_RealEstate.png&#34; alt=&#34;SavingsLedger RealEstate Header&#34; /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Insurance
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_Insurance.png&#34; alt=&#34;SavingsLedger Insurance Header&#34; /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Precious Metals
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_PreciousMetals.png&#34; alt=&#34;SavingsLedger PreciousMetals Header&#34; /&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
