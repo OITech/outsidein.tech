@@ -17,9 +17,23 @@ First Post!
 
 
 Lorem Ipsum Dolor met whenLorem Ipsum Dolor met when
-Lorem Ipsum Dolor met when
-Lorem Ipsum Dolor met when
 
+{{% mycentered %}} **[Google](http://google.com)** {{% /mycentered %}}
+
+{{< img src="/outsidein.tech/img/SavingsLedger_MF.png" alt="SavingsLedger MF Header" caption="Mutual Funds" >}}
+
+Lorem Ipsum Dolor met abcdef {{% footnote id="1" %}}My foot *note* {{% /footnote %}}
+Lorem Ipsum Dolor met when  {{% footnote id="2" %}}My feet **note** {{% /footnote %}}
+
+[Savings Ledger]({{< ref "Savings-Ledger.md" >}})
+
+   * test1
+       + test2
+   * testt
+
+   1. abc
+   2. def
+      a. 2323
 
 ``` csharp
 using System;

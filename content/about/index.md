@@ -12,4 +12,4 @@ draft = false
 
 +++
 
-A blog about technology, science and personal finance.
+A blog about technology, science, automobiles, getting things done and personal finance.

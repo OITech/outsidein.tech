@@ -14,8 +14,9 @@ paginate = 20
 
 # TODO
 # import old posts from wordpress using wordpress-to-hugo-exporter (https://gohugo.io/tools/)
-# add popups like waitbutwhy
-# gotemplate note working
+# mailing list
+# collapsible sections?
+# gotemplate not working
 # hugo feature - suggested posts (if you liked this, then you may like)
 
 [taxonomies]
