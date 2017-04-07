@@ -1,0 +1,17 @@
+<!--Footnote using bigfoot.js-->
+<!--Footnote link-->
+<sup {{ with .Get "id" }}id="fnref:{{.}}">
+    <a href="#fn:{{.}}" rel="footnote">{{.}}</a>
+</sup>
+
+<!--Footnote content-->
+<div class="footnotes">
+  <ol>
+    <li class="footnote" id="fn:{{.}}" >
+        <div>
+            <a href="#fnref:{{.}}"{{ end }} title="return to article"> ↩</a>
+            {{ .Inner }} <!--BUG: Placing .Inner before above link results in invalid generated HTML-->
+        </div>
+    </li>
+  </ol>
+</div>
