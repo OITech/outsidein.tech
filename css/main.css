@@ -3,5 +3,7 @@
 /* CUSTOM CSS */
 code {margin-left:1em; margin-right:1em}
 
+ul, ol {text-indent: -1em; padding-left: 2em;}
+
 /* see #6 */
 .highlighttable td,th{padding:0;border:0;}td.code{width:95%;}

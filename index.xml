@@ -7,8 +7,114 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Licensed under Creative Commons (BY-SA 4.0)</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 19:35:01 +0530</lastBuildDate>
     <atom:link href="https://oitech.github.io/outsidein.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Portfolio Management Tools</title>
+      <link>https://oitech.github.io/outsidein.tech/post/portfolio-management-tool/</link>
+      <pubDate>Thu, 06 Apr 2017 19:35:01 +0530</pubDate>
+      
+      <guid>https://oitech.github.io/outsidein.tech/post/portfolio-management-tool/</guid>
+      <description>&lt;p&gt;In this post, we will talk about some of the tools/apps/websites available to manage your financial portfolio. The &lt;a href=&#34;#list-of-portfolio-tools&#34; target=&#34;_blank&#34;&gt;list&lt;/a&gt; below contains multiple tools, and I will review each one in further posts. But first, let us evaluate why we need such a tool and what the requirements of such a tool are.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;why-do-we-need-portfolio-management&#34;&gt;Why do we need portfolio management?&lt;/h3&gt;
+
+&lt;p&gt;A portfolio management tool allows us to keep track of our investments and do common portfolio operations like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Consolidating asset lists in one place to get overall view of net worth.&lt;/li&gt;
+&lt;li&gt;Computing the capital gains tax to be paid for the financial year.&lt;/li&gt;
+&lt;li&gt;Rebalancing the portfolio so that the asset allocation (equity-debt ratio) remains the same as what was initially planned.
+
+
+&lt;sup id=&#34;fnref:2&#34;&gt;
+    &lt;a href=&#34;#fn:2&#34; rel=&#34;footnote&#34;&gt;2&lt;/a&gt;
+&lt;/sup&gt;
+
+
+&lt;div class=&#34;footnotes&#34;&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;footnote&#34; id=&#34;fn:2&#34; &gt;
+        &lt;div&gt;
+            &lt;a href=&#34;#fnref:2&#34; title=&#34;return to article&#34;&gt; ↩&lt;/a&gt;
+            &lt;p&gt;&lt;strong&gt;e.g.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Initial asset allocation = 60:40 (equity:debt)&lt;/li&gt;
+&lt;li&gt;After a year - ratio of equity:debt was now 70:30 (because equity grew more)&lt;/li&gt;
+&lt;li&gt;Move some amount from equity to debt → ratio becomes 60:40 once again.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This serves to move some of the gains from equity to a less volatile instrument like debt and reduce risk exposure.&lt;/p&gt;
+ 
+        &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Finding out the exposure to Large-Cap, Mid-Cap and Small-Cap companies and checking that it is within personally acceptable risk levels. Similarly, finding out whether the credit quality of debt instruments is within acceptable levels.
+
+
+&lt;sup id=&#34;fnref:3&#34;&gt;
+    &lt;a href=&#34;#fn:3&#34; rel=&#34;footnote&#34;&gt;3&lt;/a&gt;
+&lt;/sup&gt;
+
+
+&lt;div class=&#34;footnotes&#34;&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;footnote&#34; id=&#34;fn:3&#34; &gt;
+        &lt;div&gt;
+            &lt;a href=&#34;#fnref:3&#34; title=&#34;return to article&#34;&gt; ↩&lt;/a&gt;
+            &lt;strong&gt;e.g.&lt;/strong&gt; I prefer atleast 60% largecap exposure, and not more that 10% AA or lower debt. 
+        &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Giving the portfolio rate of return and personal IRR for each fund for our sequence of investments. This helps in deciding if a fund is performing as per expectations and whether we should continue investing or switch to a different fund.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ironically the feature that most tools offer - i.e. live update of NAV and net worth is actually not required. In fact, it is a bad feature, since it makes the investor jittery and likely to make impulsive decisions. Portfolio review usually happens only once a year, and the NAV on that day is sufficient for this calculation.&lt;/p&gt;
+
+&lt;h3 id=&#34;basic-portfolio-tool-requirements&#34;&gt;Basic portfolio tool requirements&lt;/h3&gt;
+
+&lt;p&gt;So, the following are the requirements for a portfolio tool. Having these features will make the periodic portfolio review easy, and give a clear picture of asset allocation and goal progress.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gives Internal Rate of Return (IRR) for tracking a funds performance&lt;/li&gt;
+&lt;li&gt;Gives equity/debt ratio for rebalancing&lt;/li&gt;
+&lt;li&gt;Capital gains calculation for taxation&lt;/li&gt;
+&lt;li&gt;Tagging funds to goals &amp;amp; tracking goal progress&lt;/li&gt;
+&lt;li&gt;Import/Export of data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;advanced-requirements&#34;&gt;Advanced requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Large-Cap/Mid-Cap/Small-Cap exposure&lt;/li&gt;
+&lt;li&gt;Debt credit quality&lt;/li&gt;
+&lt;li&gt;Portfolio overlap - show funds holding overlapping stocks, so that one can be dropped&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;list-of-portfolio-tools&#34;&gt;List of portfolio management tools&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://etportfolio.indiatimes.com&#34; target=&#34;_blank&#34;&gt;ET Portfolio&lt;/a&gt; - read my full &lt;a href=&#34;No page found with path or logical name &#34;ETPortfolio-Review-of-financial-portfolio-management-tool.md&#34;.
+&#34; target=&#34;_blank&#34;&gt;review&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.valueresearchonline.com/port/&#34; target=&#34;_blank&#34;&gt;Value Research Portfolio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Freefincal&amp;rsquo;s Excel-based &lt;a href=&#34;https://freefincal.com/features-freefincal-mutual-fund-financial-goal-tracker/&#34; target=&#34;_blank&#34;&gt;tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mprofit.in/&#34; target=&#34;_blank&#34;&gt;Mprofit Investor&lt;/a&gt; (desktop app - free upto Rs. 50 lakhs portfolio value)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.perfios.com/&#34; target=&#34;_blank&#34;&gt;Perfios&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://morningstar.in/pm/default.aspx&#34; target=&#34;_blank&#34;&gt;Morningstar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.moneycontrol.com/india/bestportfoliomanager/investment-tool&#34; target=&#34;_blank&#34;&gt;Moneycontrol&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t mentioned the excellent consolidated account statement (CAS) that NSDL sends out each month. If you have a simple portfolio containing 1 or 2 funds (see &lt;a href=&#34;https://freefincal.com/minimalist-portfolio-ideas-for-young-earners/&#34; target=&#34;_blank&#34;&gt;minimalist portfolio&lt;/a&gt;), then it might be sufficient. One point to note is that these tools may go down any time, so it is always good to have a local copy of your data. Check out &lt;a href=&#34;https://oitech.github.io/outsidein.tech/post/track-your-savings-using-this-excel-sheet/&#34; target=&#34;_blank&#34;&gt;Savings Ledger&lt;/a&gt; - an excel tracker for your investment transactions containing all asset classes. You can use it to list all transactions and then upload them to these sites.&lt;/p&gt;
+
+&lt;p&gt;If I have missed out any portfolio tool which you use, please mention it in the comments below.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Savings Ledger - Track your savings, not your expenses</title>
@@ -159,7 +265,88 @@ i.e. not&lt;/p&gt;
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://oitech.github.io/outsidein.tech/about/</guid>
-      <description>&lt;p&gt;A blog about technology, science and personal finance.&lt;/p&gt;
+      <description>&lt;p&gt;A blog about technology, science, automobiles, getting things done and personal finance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://oitech.github.io/outsidein.tech/post/drafts/investing-journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oitech.github.io/outsidein.tech/post/drafts/investing-journey/</guid>
+      <description>&lt;p&gt;My investing journey
+ - HDFC securities (Jan 2015)
+    - account cost, brokerage, MF distributor
+ - think that demat/broker is must for MF
+    - Zerodha (Aug 2016)
+ - Found out about freefincal (Dec 2016)
+ - direct MF portals, MFUtilities, Payeezz (Feb 2017)
+ - add robo advisories
+ - Zerodha coin&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;karvy e-IA&lt;/li&gt;
+&lt;li&gt;NSDL consolidated statement&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://oitech.github.io/outsidein.tech/post/drafts/things-to-do-joining-company/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oitech.github.io/outsidein.tech/post/drafts/things-to-do-joining-company/</guid>
+      <description>&lt;p&gt;joining company&lt;/p&gt;
+
+&lt;p&gt;email/chat is written record
+communication skills - work on it.
+ethics&lt;/p&gt;
+
+&lt;p&gt;email organization - emails to you, automated emails, mailing lists, security access, inventory, emails with lot of info (links/procedure etc), HR mails, Learning mails, Bold formatting for ToMe mails
+Onenote
+notepad++ - learn few details (honorable mention to textanalysistool.net) (maybe blog/video about notepad++ basics)
+excel - learn few details (segue to excel basics)&lt;/p&gt;
+
+&lt;p&gt;working with others and resolving conflicts. manager, expectations
+networking - linkedin, they can be point of contact for future jobs. Add all your college mates as well.
+    - attend team outings, learn more about people.
+teams and manager talk
+don&amp;rsquo;t be afraid to ask questions, but do due diligence
+mindset of solving
+mindset of senior engineer - dodging problems. If you had responsibility, how would you solve it. Estimation. Intuition about right and wrong solutions.&lt;/p&gt;
+
+&lt;p&gt;learn about few critical things where you need to keep manager/lead in loop. mostly committments made to others.
+Customer interaction&lt;/p&gt;
+
+&lt;p&gt;work log, blog with solutions to issues faced
+sharing information with others&lt;/p&gt;
+
+&lt;p&gt;improving process/workflow - showing energy and enthusiasm&lt;/p&gt;
+
+&lt;p&gt;sitting on bench - learning
+having a mindset of doing, not victim mentality&lt;/p&gt;
+
+&lt;p&gt;health - start going to the gym/playing sports/running daily&lt;/p&gt;
+
+&lt;p&gt;start saving - important to start early, power of compounding. learn a bit about personal finance
+Finance - learn about taxes, (keep financial records for each FY, ITR, Form-16)&lt;/p&gt;
+
+&lt;p&gt;You don&amp;rsquo;t get paid/noticed for staying late. Delivering results on time.
+Doesn&amp;rsquo;t matter about no. of bugs solved. What matters is that your manager should be able to delegate to you and forget about it.&lt;/p&gt;
+
+&lt;p&gt;10 productive hours in a 40 hour WW. FB/Youtube. staying late.&lt;/p&gt;
+
+&lt;p&gt;Post #2:
+After 1 year.&lt;/p&gt;
+
+&lt;p&gt;Plan to leave if you have made genuine attempt at progress and still don&amp;rsquo;t like it. Bad manager.&lt;/p&gt;
+
+&lt;p&gt;Keep algo/DS skills current.
+Learn about OOD, architecture&lt;/p&gt;
+
+&lt;p&gt;Promotion.&lt;/p&gt;
 </description>
     </item>
     
