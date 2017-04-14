@@ -1,15 +1,16 @@
 <!--Footnote using bigfoot.js-->
 <!--Footnote link-->
-<sup {{ with .Get "id" }}id="fnref:{{.}}">
-    <a href="#fn:{{.}}" rel="footnote">{{.}}</a>
-</sup>
+{{ $id := .Get "id" }}
+<sup id="fnref:{{ $id }}">
+    <a href="#fn:{{ $id }}" rel="footnote">{{ $id }}</a>
+</sup> {{ if eq $id "1" }}<sup style="font-size: 60%; font-style: italic;">← click here</sup>{{ end }}
 
 <!--Footnote content-->
 <div class="footnotes">
   <ol>
-    <li class="footnote" id="fn:{{.}}" >
+    <li class="footnote" id="fn:{{ $id }}" >
         <div>
-            <a href="#fnref:{{.}}"{{ end }} title="return to article"> ↩</a>
+            <a href="#fnref:{{ $id }}" title="return to article"> ↩</a>
             {{ .Inner }} <!--BUG: Placing .Inner before above link results in invalid generated HTML-->
         </div>
     </li>
