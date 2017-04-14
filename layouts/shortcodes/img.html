@@ -11,8 +11,8 @@
         </p> {{ end }}
     </figcaption>
     {{ end }}
-    {{ with .Get "link"}}<a href="{{.}}">{{ end }}
+    {{ with .Get "src"}}<a href="{{.}}" data-featherlight="image">{{ end }}<!-- 'data-featherlight' attr for featherlight.js modal images -->
         <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
-    {{ if .Get "link"}}</a>{{ end }}
+    {{ if .Get "src"}}</a>{{ end }}
 </figure>
 <!-- image -->
