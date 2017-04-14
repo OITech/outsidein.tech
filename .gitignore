@@ -1,3 +1,5 @@
 public/ 
 themes/ 
 temp/
+content/post/drafts/
+.vscode/

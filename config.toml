@@ -16,6 +16,7 @@ paginate = 20
 # import old posts from wordpress using wordpress-to-hugo-exporter (https://gohugo.io/tools/)
 # mailing list
 # collapsible sections?
+# Side menu with table of contents which scrolls with the post, current section is highlighted
 # gotemplate not working
 # hugo feature - suggested posts (if you liked this, then you may like)
 

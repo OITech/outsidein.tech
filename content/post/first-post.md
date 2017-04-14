@@ -21,6 +21,7 @@ Lorem Ipsum Dolor met whenLorem Ipsum Dolor met when
 {{% mycentered %}} **[Google](http://google.com)** {{% /mycentered %}}
 
 {{< img src="/outsidein.tech/img/SavingsLedger_MF.png" alt="SavingsLedger MF Header" caption="Mutual Funds" >}}
+{{< figure src="/outsidein.tech/img/SavingsLedger_Insurance.png" title="Insurance" >}}
 
 Lorem Ipsum Dolor met abcdef {{% footnote id="1" %}}My foot *note* {{% /footnote %}}
 Lorem Ipsum Dolor met when  {{% footnote id="2" %}}My feet **note** {{% /footnote %}}
