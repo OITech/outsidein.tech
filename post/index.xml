@@ -7,8 +7,467 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Licensed under Creative Commons (BY-SA 4.0)</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 19:35:01 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://oitech.github.io/outsidein.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ET Portfolio - Review of a Financial Portfolio Management Tool</title>
+      <link>https://oitech.github.io/outsidein.tech/post/ETPortfolio-Review-of-financial-portfolio-management-tool/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://oitech.github.io/outsidein.tech/post/ETPortfolio-Review-of-financial-portfolio-management-tool/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://etportfolio.indiatimes.com&#34; target=&#34;_blank&#34;&gt;Economic Times Portfolio&lt;/a&gt; is a financial portfolio tracking tool which can be used manage financial assets. There are a few such portfolio management tools which have been listed in an earlier &lt;a href=&#34;https://oitech.github.io/outsidein.tech/post/portfolio-management-tool/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;. ETPortfolio allows multiple portfolios, tracking of different asset classes like shares, mutual funds, fixed income instruments, loans and so on. It can track your goals and their progress and can generate useful reports like capital gains tax liability, IRR and profit &amp;amp; loss. Here is a full review of ETPortfolio:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The main screen that you see on logging in 
+
+
+&lt;sup id=&#34;fnref:1&#34;&gt;
+    &lt;a href=&#34;#fn:1&#34; rel=&#34;footnote&#34;&gt;1&lt;/a&gt;
+&lt;/sup&gt; &lt;sup style=&#34;font-size: 60%; font-style: italic;&#34;&gt;← click here&lt;/sup&gt;
+
+
+&lt;div class=&#34;footnotes&#34;&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;footnote&#34; id=&#34;fn:1&#34; &gt;
+        &lt;div&gt;
+            &lt;a href=&#34;#fnref:1&#34; title=&#34;return to article&#34;&gt; ↩&lt;/a&gt;
+            Three portfolios: &lt;em&gt;Retirement&lt;/em&gt;, &lt;em&gt;Ch1 Education&lt;/em&gt;, &lt;em&gt;Ch1 Marriage&lt;/em&gt; are added for illustration 
+        &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Main Screen
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Overview.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Overview.png&#34; alt=&#34;Main Screen&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;goal-based-investing&#34;&gt;Goal-based Investing&lt;/h3&gt;
+
+&lt;p&gt;Any successful portfolio is designed around goals. There is a goal planner included in ETPortfolio where you can add different goals like retirement, education, marriage and so on. Each goal can be linked with a portfolio to track goal progress.&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Add a new financial goal
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_New.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_New.png&#34; alt=&#34;Add a new financial goal&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;Goal progress is shown for each goal:
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_overview.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_overview.png&#34; alt=&#34;Goal progress&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Investment amount required for goal is calculated based on the inflation adjusted goal amount. The targets can be calculated as fixed or increasing (based on expected increase in salary)&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Yearly target for the goal
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_MoneyTarget.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_MoneyTarget.png&#34; alt=&#34;Yearly target for the goal&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;The &amp;ldquo;retirement&amp;rdquo; goal is treated differently from other goals. The goal target is calculated automatically based on inflation, the expected expenditure post retirement and the expected yearly return of investments. One flaw in the retirement calculator is that the start date for retirement computation can&amp;rsquo;t be changed. It is fixed from the day the goal is added. So, if you have already planned for retirement using some other tool, then importing it is difficult. The value of an existing portfolio tagged for retirement cannot be added to the calculation, so the calculator might throw up high targets if you have started using it late.&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Assets invested for retirement vs needed values
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_Retirement.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FinancialGoal_Retirement.png&#34; alt=&#34;Assets invested for retirement vs needed values&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;supported-account-types&#34;&gt;Supported Account Types&lt;/h3&gt;
+
+&lt;p&gt;ET Portfolio supports almost all of the common financial instruments. In fact, only EPF is missing in this list, and maybe other types of insurance (like life, health insurance etc.), though they are not strictly investments:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Stocks (BSE/NSE)&lt;/li&gt;
+&lt;li&gt;Mutual Funds and ETFs&lt;/li&gt;
+&lt;li&gt;Unit-Linked Insurance Plans (ULIPs)&lt;/li&gt;
+&lt;li&gt;Fixed Income
+
+&lt;ul&gt;
+&lt;li&gt;FD and RD (bank &amp;amp; corporate)&lt;/li&gt;
+&lt;li&gt;PPF&lt;/li&gt;
+&lt;li&gt;NSC and Vikas Patrika&lt;/li&gt;
+&lt;li&gt;RBI and Corporate Bonds&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Other Assets (real estate, gold, savings account i.e. cash)&lt;/li&gt;
+&lt;li&gt;Loans (with fixed &amp;amp; floating interest rates)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;1-stocks&#34;&gt;1. Stocks&lt;/h4&gt;
+
+&lt;p&gt;ET Portfolio allows all listed stock transactions to be entered. Live tracking of the stock price with gains/losses and IRR is available. The overview page gives the overall sector allocation for stocks and even lists various IPOs running currently and allows you to record applications and stocks allotted.&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Stocks
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Stocks.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Stocks.png&#34; alt=&#34;Stocks&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;If I had to pick a missing feature, I would say that unlisted/foreign securities should be allowed by manually entering the details. This is useful when you have are invested in private equity or more commonly, have stock benefits granted for stocks listed in other countries. Addition of this in the capital gains computation would really complete the feature set.&lt;/p&gt;
+
+&lt;h4 id=&#34;2-mutual-funds-and-etfs&#34;&gt;2. Mutual Funds and ETFs&lt;/h4&gt;
+
+&lt;p&gt;Mutual funds can be added here and the NAV and profit/loss is updated daily. 
+
+
+&lt;sup id=&#34;fnref:2&#34;&gt;
+    &lt;a href=&#34;#fn:2&#34; rel=&#34;footnote&#34;&gt;2&lt;/a&gt;
+&lt;/sup&gt; 
+
+
+&lt;div class=&#34;footnotes&#34;&gt;
+  &lt;ol&gt;
+    &lt;li class=&#34;footnote&#34; id=&#34;fn:2&#34; &gt;
+        &lt;div&gt;
+            &lt;a href=&#34;#fnref:2&#34; title=&#34;return to article&#34;&gt; ↩&lt;/a&gt;
+            The funds added here are just to create a dummy portfolio, please don&amp;rsquo;t take it seriously. 
+        &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Mutual Funds
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_MutualFund_overview.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_MutualFund_overview.png&#34; alt=&#34;Mutual Funds&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;The personal IRR for your sequence of transactions for a mutual fund is shown here. Quite useful.
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Mutual Funds IRR
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_MutualFund_IRR.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_MutualFund_IRR.png&#34; alt=&#34;Mutual Funds IRR&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Detailed transaction history is also available:
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Mutual Fund Transaction History
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_MutualFund_TransHistory.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_MutualFund_TransHistory.png&#34; alt=&#34;Mutual Fund Transaction History&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;ETFs are a separate category, though for accounting purposes, they can be treated like stocks.&lt;/p&gt;
+
+&lt;h4 id=&#34;3-ulips&#34;&gt;3. ULIPs&lt;/h4&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t investigated this fully, but we can add all our ULIP transactions here and it will be reflected as part of the portfolio.&lt;/p&gt;
+
+&lt;h4 id=&#34;4-fixed-income&#34;&gt;4. Fixed Income&lt;/h4&gt;
+
+&lt;p&gt;This category contains a lot of different fixed income instruments. The interest amounts are automatically calculated in PPF accounts and other accounts.&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Various Fixed Income instruments supported
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FixedIncome.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_FixedIncome.png&#34; alt=&#34;Various Fixed Income instruments supported&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;The only missing instrument here is EPF. That is quite bad since EPF usually forms a decent portion of your portfolio, and is usually tagged to your retirement goal. Having EPF here would have made ET Portfolio have complete coverage of most of the asset classes.&lt;/p&gt;
+
+&lt;h4 id=&#34;5-other-assets&#34;&gt;5. Other Assets&lt;/h4&gt;
+
+&lt;p&gt;Assets like real estate and gold/silver can be added here. For real estate, you need to keep updating the market price to correctly reflect the value of the property. Gold and silver values are updated with current prices automatically.&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Real Estate, Gold and Other assets
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_OtherAssets.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_OtherAssets.png&#34; alt=&#34;Real Estate, Gold and Other assets&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;6-loans&#34;&gt;6. Loans&lt;/h4&gt;
+
+&lt;p&gt;Loans for Home/Car/Personal etc. can be added and the EMI can be calculated automatically.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Add different types of loans
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Loans.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Loans.png&#34; alt=&#34;Add different types of loans&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Computed EMI for a loan
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Loan_EMI.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Loan_EMI.png&#34; alt=&#34;Computed EMI for a loan&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;adding-transactions&#34;&gt;Adding Transactions&lt;/h3&gt;
+
+&lt;p&gt;Transactions can be added manually or by uploading an excel in a specific format. Pasting transactions in an online excel-like table is supported, but only for stocks. Overall, the ease of use can be improved. Uploading CAMS summaries are not supported. Transactions from your &lt;a href=&#34;https://oitech.github.io/outsidein.tech/post/track-your-savings-using-this-excel-sheet/&#34; target=&#34;_blank&#34;&gt;Savings Ledger&lt;/a&gt; can be uploading by cutting few of the extra columns.&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Add different types of transactions
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_AddTransaction.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_AddTransaction.png&#34; alt=&#34;Add different types of transactions&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;SIPs and SWPs are also supported.&lt;/p&gt;
+
+&lt;h3 id=&#34;reports-and-graphs&#34;&gt;Reports and Graphs&lt;/h3&gt;
+
+&lt;p&gt;As mentioned in my post - &lt;a href=&#34;https://oitech.github.io/outsidein.tech/post/portfolio-management-tool/&#34; target=&#34;_blank&#34;&gt;requirements of a portfolio management tool&lt;/a&gt;, IRR and capital gains tax computations are the most useful to have. ETPortfolio supports a variety of reports including these.
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Capital Gains Report
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Reports_CapGain.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Reports_CapGain.png&#34; alt=&#34;Capital Gains Report&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Internal Rate of Return (IRR) for the complete portfolio:
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Internal Rate of Return Report
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Reports_IRR.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Reports_IRR.png&#34; alt=&#34;Internal Rate of Return Report&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Profit/Loss statement:
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Profit/Loss Report
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Reports_ProfitLoss.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Reports_ProfitLoss.png&#34; alt=&#34;Profit/Loss Report&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;There are some bugs with the exporting of data, but it is never wise to solely rely on these tools for your data. You should save your transaction history locally in the &lt;a href=&#34;https://oitech.github.io/outsidein.tech/post/track-your-savings-using-this-excel-sheet/&#34; target=&#34;_blank&#34;&gt;Savings Ledger&lt;/a&gt; excel sheet for safekeeping.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-features&#34;&gt;Other Features&lt;/h3&gt;
+
+&lt;p&gt;ET Portfolio supports a watchlist feature where you can keep an eye on various stocks/mutual funds/indices and see their gains &amp;amp; losses. ET portfolio also has a mobile &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.et.reader.activities&#34; target=&#34;_blank&#34;&gt;app&lt;/a&gt; for viewing your portfolio on the go. It is a part of the Economic Times app.&lt;/p&gt;
+
+
+&lt;figure  style=&#34;text-align: center&#34;&gt;
+    
+    &lt;figcaption style=&#34;text-align: center; text-shadow: 0 0 0 black&#34;&gt;
+        &lt;p style=&#34;margin: 0.3em&#34;&gt;
+        Watchlist
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Watchlist.png&#34; data-featherlight=&#34;image&#34;&gt;
+        &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/ETPortfolio_Watchlist.png&#34; alt=&#34;Watchlist&#34; /&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;caveats&#34;&gt;Caveats&lt;/h3&gt;
+
+&lt;p&gt;Here are the some problems &amp;amp; missing features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No support for entering/tracking EPF transactions.&lt;/li&gt;
+&lt;li&gt;No separate debt portion. Cannot see an overview of equity:debt ratio of the portfolio.&lt;/li&gt;
+&lt;li&gt;No fund components and overlap. Cannot view the holdings of a mutual fund and find if there is any overlap between funds. Although this is an advanced requirement.&lt;/li&gt;
+&lt;li&gt;No Large-Mid-Small cap exposure details. Cannot review if the exposures are within individual risk levels.&lt;/li&gt;
+&lt;li&gt;No debt details and credit quality. Cannot review if the overall debt credit quality is within our risk level.&lt;/li&gt;
+&lt;li&gt;Issues with reports for ETFs. ETFs are treated separately from Shares and Mutual Funds, and have bugs with report generation.&lt;/li&gt;
+&lt;li&gt;No unlisted/foreign stocks. Although now I am asking for a bit much.&lt;/li&gt;
+&lt;li&gt;Makes for a jittery investor since portfolio gain/loss/XIRR is easily available every day.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In all, I found ET Portfolio to be quite useful, especially its reports and its support for a large variety of asset classes. Since it supports all asset classes, it gives you a good overview of your networth and listing of your financial assets. I use it for tracking my portfolios along with &lt;a href=&#34;https://www.valueresearchonline.com/port/&#34; target=&#34;_blank&#34;&gt;Value Research Portfolio&lt;/a&gt; for mutual fund insights and &lt;a href=&#34;https://oitech.github.io/outsidein.tech/post/track-your-savings-using-this-excel-sheet/&#34; target=&#34;_blank&#34;&gt;Savings Ledger&lt;/a&gt; to store my list of transactions locally.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, shoot a comment below.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Portfolio Management Tools</title>
@@ -30,9 +489,10 @@
 &lt;li&gt;Rebalancing the portfolio so that the asset allocation (equity-debt ratio) remains the same as what was initially planned.
 
 
+
 &lt;sup id=&#34;fnref:2&#34;&gt;
     &lt;a href=&#34;#fn:2&#34; rel=&#34;footnote&#34;&gt;2&lt;/a&gt;
-&lt;/sup&gt;
+&lt;/sup&gt; 
 
 
 &lt;div class=&#34;footnotes&#34;&gt;
@@ -58,9 +518,10 @@
 &lt;li&gt;Finding out the exposure to Large-Cap, Mid-Cap and Small-Cap companies and checking that it is within personally acceptable risk levels. Similarly, finding out whether the credit quality of debt instruments is within acceptable levels.
 
 
+
 &lt;sup id=&#34;fnref:3&#34;&gt;
     &lt;a href=&#34;#fn:3&#34; rel=&#34;footnote&#34;&gt;3&lt;/a&gt;
-&lt;/sup&gt;
+&lt;/sup&gt; 
 
 
 &lt;div class=&#34;footnotes&#34;&gt;
@@ -101,8 +562,7 @@
 &lt;h3 id=&#34;list-of-portfolio-tools&#34;&gt;List of portfolio management tools&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://etportfolio.indiatimes.com&#34; target=&#34;_blank&#34;&gt;ET Portfolio&lt;/a&gt; - read my full &lt;a href=&#34;No page found with path or logical name &#34;ETPortfolio-Review-of-financial-portfolio-management-tool.md&#34;.
-&#34; target=&#34;_blank&#34;&gt;review&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://etportfolio.indiatimes.com&#34; target=&#34;_blank&#34;&gt;ET Portfolio&lt;/a&gt; - read my full &lt;a href=&#34;https://oitech.github.io/outsidein.tech/post/ETPortfolio-Review-of-financial-portfolio-management-tool/&#34; target=&#34;_blank&#34;&gt;review&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.valueresearchonline.com/port/&#34; target=&#34;_blank&#34;&gt;Value Research Portfolio&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Freefincal&amp;rsquo;s Excel-based &lt;a href=&#34;https://freefincal.com/features-freefincal-mutual-fund-financial-goal-tracker/&#34; target=&#34;_blank&#34;&gt;tracker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mprofit.in/&#34; target=&#34;_blank&#34;&gt;Mprofit Investor&lt;/a&gt; (desktop app - free upto Rs. 50 lakhs portfolio value)&lt;/li&gt;
@@ -161,9 +621,9 @@ i.e. not&lt;/p&gt;
         &lt;/p&gt; 
     &lt;/figcaption&gt;
     
-    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_MF.png&#34; data-featherlight=&#34;image&#34;&gt;
         &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_MF.png&#34; alt=&#34;SavingsLedger MF Header&#34; /&gt;
-    
+    &lt;/a&gt;
 &lt;/figure&gt;
 
 
@@ -179,9 +639,9 @@ i.e. not&lt;/p&gt;
         &lt;/p&gt; 
     &lt;/figcaption&gt;
     
-    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_ShareETF.png&#34; data-featherlight=&#34;image&#34;&gt;
         &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_ShareETF.png&#34; alt=&#34;SavingsLedger ShareETF Header&#34; /&gt;
-    
+    &lt;/a&gt;
 &lt;/figure&gt;
 
 
@@ -197,9 +657,9 @@ i.e. not&lt;/p&gt;
         &lt;/p&gt; 
     &lt;/figcaption&gt;
     
-    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_FixedIncome.png&#34; data-featherlight=&#34;image&#34;&gt;
         &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_FixedIncome.png&#34; alt=&#34;SavingsLedger FixedIncome Header&#34; /&gt;
-    
+    &lt;/a&gt;
 &lt;/figure&gt;
 
 
@@ -215,9 +675,9 @@ i.e. not&lt;/p&gt;
         &lt;/p&gt; 
     &lt;/figcaption&gt;
     
-    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_RealEstate.png&#34; data-featherlight=&#34;image&#34;&gt;
         &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_RealEstate.png&#34; alt=&#34;SavingsLedger RealEstate Header&#34; /&gt;
-    
+    &lt;/a&gt;
 &lt;/figure&gt;
 
 
@@ -233,9 +693,9 @@ i.e. not&lt;/p&gt;
         &lt;/p&gt; 
     &lt;/figcaption&gt;
     
-    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_Insurance.png&#34; data-featherlight=&#34;image&#34;&gt;
         &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_Insurance.png&#34; alt=&#34;SavingsLedger Insurance Header&#34; /&gt;
-    
+    &lt;/a&gt;
 &lt;/figure&gt;
 
 
@@ -251,9 +711,9 @@ i.e. not&lt;/p&gt;
         &lt;/p&gt; 
     &lt;/figcaption&gt;
     
-    
+    &lt;a href=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_PreciousMetals.png&#34; data-featherlight=&#34;image&#34;&gt;
         &lt;img src=&#34;https://oitech.github.io/outsidein.tech/outsidein.tech/img/SavingsLedger_PreciousMetals.png&#34; alt=&#34;SavingsLedger PreciousMetals Header&#34; /&gt;
-    
+    &lt;/a&gt;
 &lt;/figure&gt;
 
 </description>
